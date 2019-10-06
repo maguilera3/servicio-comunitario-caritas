@@ -1,0 +1,4 @@
+2019-10-04T04:36:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\pruebaSC\wp-includes\wp-db.php en la línea 2007
+
+2019-10-04T05:57:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\pruebaSC\wp-content\themes\mesmerize\customizer\kirki\includes\controls\class-kirki-controls-typography-control.php en la línea 13
+

@@ -1,0 +1,6 @@
+2019-10-05T04:25:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\pruebaSC\wp-includes\Requests\Transport\cURL.php en la línea 441
+
+2019-10-05T04:30:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\pruebaSC\wp-includes\wp-db.php en la línea 2007
+
+2019-10-05T21:17:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\pruebaSC\wp-includes\Requests\Transport\cURL.php en la línea 163
+
